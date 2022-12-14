@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomuser/static/css/main.478bc3ff.css",
+    "main.js": "/randomuser/static/js/main.ad333559.js",
+    "index.html": "/randomuser/index.html",
+    "main.478bc3ff.css.map": "/randomuser/static/css/main.478bc3ff.css.map",
+    "main.ad333559.js.map": "/randomuser/static/js/main.ad333559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478bc3ff.css",
+    "static/js/main.ad333559.js"
+  ]
+}
